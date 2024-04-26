@@ -6,3 +6,4 @@ export default function iterateThroughObject(reportWithIterator) {
       result = reportWithIterator.next();
     }
   }
+  
