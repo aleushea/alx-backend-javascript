@@ -6,5 +6,4 @@ export default function cleanSet(set, startString) {
     res = Array.from(set).filter((word) => typeof word === 'string' && word.startsWith(startString));
     res = res.map((word) => word.slice(startString.length));
     return res.join('-');
-  }
-  
+    }
