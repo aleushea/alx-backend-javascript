@@ -1,4 +1,7 @@
 0x04. Typescript
+
+From Gebremichael Alemayehu
+
 Resources Read or watch:
 
 	TypeScript in 5 minutes
