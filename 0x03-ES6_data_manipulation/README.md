@@ -1,14 +1,8 @@
 0x03. ES6 data manipulation
 JavaScript
 ES6
- Weight: 1
- Project will start Apr 29, 2024 6:00 AM, must end by May 1, 2024 6:00 AM
- Checker was released at Apr 29, 2024 6:00 PM
- An auto review will be launched at the deadline
 
-
-Resources
-Read or watch:
+Resources Read or watch:
 
 Array
 Typed Array
